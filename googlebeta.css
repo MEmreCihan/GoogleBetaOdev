@@ -1,0 +1,31 @@
+header{
+    margin: auto;
+    text-align: center;
+}
+
+.searchbar{
+    background-color:rgb(238, 238, 238);
+    text-align: center;
+    margin: 0px 50px;
+}
+
+div{
+    float: left;
+    width: 601px;
+    height: 110px;
+    padding: auto;
+    text-align: center;
+}
+
+.div1{
+    background-color: #7EE5DA;
+    margin-left: 50px;
+}
+
+.div2{
+    background-color: #70CCC2;
+}
+
+.div3{
+    background-color: #62B3AA;
+}
